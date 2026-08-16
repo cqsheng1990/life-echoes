@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /life-echoes/
+Disallow: /life-echoes/api/
+Disallow: /life-echoes/m/
+Disallow: /life-echoes/studio/
+
+Sitemap: https://cqsheng1990.github.io/life-echoes/sitemap.xml
